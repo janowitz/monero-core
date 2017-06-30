@@ -21,12 +21,12 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="72"/>
         <source>QRCODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod QR</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="94"/>
         <source>4...</source>
-        <translation type="unfinished"></translation>
+        <translation>>4...</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="103"/>
@@ -41,12 +41,12 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="117"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej 64 znaków szesnastkowych</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis &lt;font size=&apos;2&apos;&gt;(Opcjonalny)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="128"/>
@@ -56,22 +56,22 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="139"/>
         <source>Give this entry a name or description</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadaj temu wpisowi nazwę lub opis</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="155"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="160"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="163"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawny adres</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="167"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../components/DaemonConsole.qml" line="117"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <location filename="../components/DaemonConsole.qml" line="128"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="132"/>
         <source>Use custom settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj niestandardowych ustawień</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../pages/History.qml" line="281"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtruj</translation>
     </message>
     <message>
         <source>FILTER</source>
@@ -313,7 +313,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Destinations:</source>
-        <translation>Cel:</translation>
+        <translation>Destynacje:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="110"/>
@@ -328,17 +328,17 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="266"/>
         <source>(%1/10 confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1/10 potwierdzeń)</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="270"/>
         <source>UNCONFIRMED</source>
-        <translation type="unfinished"></translation>
+        <translation>BRAK POTWIERDZENIA</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="271"/>
         <source>PENDING</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">W OCZEKIWANIU</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="300"/>
@@ -414,17 +414,17 @@
     <message>
         <location filename="../LeftPanel.qml" line="93"/>
         <source>Testnet</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieć testowa</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="306"/>
         <source>Address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Książka adresowa</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="307"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>K</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="356"/>
@@ -434,7 +434,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="378"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbudowany</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="379"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="424"/>
         <source>Check payment</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź płatność</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="448"/>
@@ -497,7 +497,7 @@
     <message>
         <location filename="../MiddlePanel.qml" line="48"/>
         <source>Unlocked Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne saldo</translation>
     </message>
     <message>
         <source>Unlocked Balance:</source>
@@ -615,7 +615,7 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="53"/>
         <source>Synchronizing</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronizowanie</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="57"/>
@@ -673,17 +673,17 @@
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="100"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Niski</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="109"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Średni</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="118"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysoki</translation>
     </message>
 </context>
 <context>
@@ -773,12 +773,12 @@
     <message>
         <location filename="../pages/Receive.qml" line="230"/>
         <source>16 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>16 znaków szesnastkowych</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="266"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="276"/>
@@ -788,7 +788,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="285"/>
         <source>Generate payment ID for integrated address</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz identyfikator płatności dla adresu zintegrowanego</translation>
     </message>
     <message>
         <source>ReadOnly wallet integrated address displayed here</source>
@@ -797,17 +797,17 @@
     <message>
         <location filename="../pages/Receive.qml" line="388"/>
         <source>Save QrCode</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz kod QR</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="389"/>
         <source>Failed to save QrCode to </source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd zapisania kodu QR do </translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="400"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="222"/>
@@ -841,7 +841,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="344"/>
         <source>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;This is a simple sales tracker:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Click Generate to create a random payment id for a new customer&lt;/p&gt; &lt;p&gt;Let your customer scan that QR code to make a payment (if that customer has software which supports QR code scanning).&lt;/p&gt;&lt;p&gt;This page will automatically scan the blockchain and the tx pool for incoming transactions using this QR code. If you input an amount, it will also check that incoming transactions total up to that amount.&lt;/p&gt;It&apos;s up to you whether to accept unconfirmed transactions or not. It is likely they&apos;ll be confirmed in short order, but there is still a possibility they might not, so for larger values you may want to wait for one or more confirmation(s).&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;Tutaj możesz śledzić sprzedaż:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Kliknij w Generuj aby stworzyć losowy identyfikator płatności dla nowego klienta&lt;/p&gt; &lt;p&gt;Klient może także zeskanować kod aby dokonać płatności (jeśli posiada oprogramowanie do skanowania kodów).&lt;/p&gt;&lt;p&gt;Ta strona automatycznie śledzi łańcuch bloków i pulę tx wyszukująć transakcji przychodzących. Jeśli wprowadzisz wartość, będzie szukała transakcji do maksymalnie tej wartości.&lt;/p&gt;Sam decydujesz, czy akceptujesz niepotwierdzone transakcje czy nie. Powinny zostać zatwierdzone niedługo potem, ale istenieje prawdopodobieństwo, że nie zostaną. Dla wiekszych kwot możesz chcieć poczekać na jedno lub więcej powiadomień.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;Tutaj możesz śledzić sprzedaż:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Kliknij w Generuj aby stworzyć losowy identyfikator płatności dla nowego klienta&lt;/p&gt; &lt;p&gt;Klient może także zeskanować kod QR aby dokonać płatności (jeśli posiada oprogramowanie do skanowania kodów QR).&lt;/p&gt;&lt;p&gt;Ta strona automatycznie śledzi łańcuch bloków i pulę tx wyszukująć transakcji przychodzących. Jeśli wprowadzisz wartość, będzie szukała transakcji do maksymalnie tej wartości.&lt;/p&gt;Sam decydujesz, czy akceptujesz niepotwierdzone transakcje czy nie. Powinny zostać zatwierdzone niedługo potem, ale istenieje prawdopodobieństwo, że nie zostaną. Dla większych kwot możesz chcieć poczekać na jedno lub więcej potwierdzeń.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="254"/>
@@ -980,7 +980,7 @@
     </message>
     <message>
         <source>Show log</source>
-        <translation type="vanished">Pokaż log</translation>
+        <translation>Pokaż logi</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="286"/>
@@ -991,7 +991,7 @@
         <location filename="../pages/Settings.qml" line="265"/>
         <location filename="../pages/Settings.qml" line="294"/>
         <source>(optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcjonalne)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="120"/>
@@ -1006,12 +1006,12 @@
     <message>
         <location filename="../pages/Settings.qml" line="172"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd:</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="177"/>
         <source>Information</source>
-        <translation type="unfinished">Informacja</translation>
+        <translation>Informacja</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="178"/>
@@ -1026,57 +1026,57 @@
     <message>
         <location filename="../pages/Settings.qml" line="342"/>
         <source>Login (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Login (opcjonalny)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="355"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="364"/>
         <source>Password</source>
-        <translation type="unfinished">Hasło</translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="372"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="398"/>
         <source>Layout settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia wyglądu</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="415"/>
         <source>Custom decorations</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowe dekoracje</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="426"/>
         <source>Log level</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom logowania</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="460"/>
         <source>(e.g. *:WARNING,net.p2p:DEBUG)</source>
-        <translation type="unfinished"></translation>
+        <translation>(np. *:WARNING,net.p2p:DEBUG)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="476"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="492"/>
         <source>GUI version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja GUI: </translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="499"/>
         <source>Embedded Monero version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja zintegrowanego Monero: </translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="509"/>
@@ -1086,37 +1086,37 @@
     <message>
         <location filename="../pages/Settings.qml" line="573"/>
         <source>Please choose a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wybierz folder</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="582"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="585"/>
         <source>Error: Filesystem is read only</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: System plików jest tylko do odczytu</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="589"/>
         <source>Warning: There&apos;s only %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Jest tylko %1 GB miejsca na nośniku. Łańcuch bloków wymaga ~%2 GB danych.</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="591"/>
         <source>Note: There&apos;s %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Jest tylko %1 GB miejsca na nośniku. Łańcuch bloków wymaga ~%2 GB danych.</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="595"/>
         <source>Note: lmdb folder not found. A new folder will be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Nie znaleziono foldera lmdb. Nowy folder zostanie utworzyony.</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="600"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="322"/>
@@ -1126,7 +1126,7 @@
     <message>
         <location filename="../pages/Settings.qml" line="239"/>
         <source>Show status</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż status</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="331"/>
